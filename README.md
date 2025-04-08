@@ -15,7 +15,10 @@
 14-Fixing problems with bookmarks data / filter preservation <br>
 15-Setting up tooltips for country breakdown<br>
 16-Slicer panel set up<br>
-# sales dashboard link 
-"C:\Users\hp\OneDrive\Documents\sales dashbord power bi.pbix"
-# screenshot of dashboard 
+# Sales Dashboard Link 
+https://raw.githubusercontent.com/Manogyajn/Sales-Dashboard-PowerBi/refs/heads/main/sales%20dashbord%20power%20bi.pbix
+# Screenshots Of Dashboard 
 https://github.com/Manogyajn/Sales-Dashboard-PowerBi/blob/main/WhatsApp%20Image%202025-04-08%20at%2017.40.13_05f08b18.jpg 
+https://github.com/Manogyajn/Sales-Dashboard-PowerBi/blob/main/WhatsApp%20Image%202025-04-08%20at%2017.40.13_f667e93c.jpg 
+# Dataset Link 
+"C:\Users\hp\Downloads\awesome-chocolates-data.sql"
