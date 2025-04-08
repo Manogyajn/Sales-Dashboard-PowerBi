@@ -21,4 +21,4 @@ https://raw.githubusercontent.com/Manogyajn/Sales-Dashboard-PowerBi/refs/heads/m
 https://github.com/Manogyajn/Sales-Dashboard-PowerBi/blob/main/WhatsApp%20Image%202025-04-08%20at%2017.40.13_05f08b18.jpg 
 https://github.com/Manogyajn/Sales-Dashboard-PowerBi/blob/main/WhatsApp%20Image%202025-04-08%20at%2017.40.13_f667e93c.jpg 
 # Dataset Link 
-"C:\Users\hp\Downloads\awesome-chocolates-data.sql"
+"C:\Users\hp\Downloads\awesome-chocolates-data.sql"(https://github.com/Manogyajn/Sales-Dashboard-PowerBi/blob/main/awesome-chocolates-data.sql)
